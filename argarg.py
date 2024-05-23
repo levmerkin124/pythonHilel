@@ -1,5 +1,5 @@
 def print_message():
-    message = "ChatGPT Топ"
+    message = "ChatGPT Тоp"
     print(message)
 
 print_message()
