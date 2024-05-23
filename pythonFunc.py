@@ -1,6 +1,6 @@
 def longer_string(s1: str, s2: str) -> str:
     """
-    Повертає довшу з двох строк.!!
+    Повертає довшу з двох строк.!!!
     """
     return s1 if len(s1) >= len(s2) else s2
 
