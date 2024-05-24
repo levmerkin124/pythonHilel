@@ -7,4 +7,5 @@ def is_valid_email(email_candidate: str) -> bool:
         return True
     return False
 
-is_valid_email('ergre')
+
+is_valid_email("ergre")
