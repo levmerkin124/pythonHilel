@@ -24,7 +24,7 @@ class Car:
 
 
 if __name__ == "__main__":
-    car = Car("Dodge", 2020, 10_000_000)
+    car = Car("Dodge 2", 2020, 10_000_000)
     print(car)
     print(car.category)
     car.drive(100)
