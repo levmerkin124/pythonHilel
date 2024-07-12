@@ -22,3 +22,7 @@ class CreatedProduct(NewProduct, ProductId):
 
 class DeletedProduct(ProductId):
     status: bool = True
+
+
+class DeletedProduct(ProductId):
+    status: bool = True
