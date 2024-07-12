@@ -30,4 +30,3 @@ if __name__ == "__main__":
     car.drive(100)
     print(car)
     print(car.category)
-
